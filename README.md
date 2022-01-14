@@ -4,7 +4,7 @@
 
 ## 👯PHP
 
-- EasySwoole后台封装 : [easyswoole_panel](https://github.com/easyswoole-panel/easyswoole_panel)
+- EasySwoole后台封装 : [easyswoole_panel](https://github.com/easyswoole-panel/easyswoole_panel){:target="_blank"}
 - EasySwoole ORM组件 : [ORM](https://github.com/easy-swoole/orm)
 - EasySwoole http请求日志分析、复发工具 : [EasySwoole HttpMonitor](https://github.com/xuanyanwow/easyswooleHttpMonitor)
 - 常用类封装 : [CommomHelper](https://github.com/xuanyanwow/CommomHelper)
