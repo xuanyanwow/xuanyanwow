@@ -7,6 +7,7 @@
 - EasySwoole后台封装 : [easyswoole_panel](https://github.com/easyswoole-panel/easyswoole_panel)
 - EasySwoole ORM组件 : [ORM](https://github.com/easy-swoole/orm)
 - EasySwoole http请求日志分析、复发工具 : [EasySwoole HttpMonitor](https://github.com/xuanyanwow/easyswooleHttpMonitor)
+- EasySwoole 斗地主后端 练习：[SiamDDZ_es](https://github.com/xuanyanwow/SiamDDZ_es)
 - 常用类封装 : [CommomHelper](https://github.com/xuanyanwow/CommomHelper)
 - 自用后台封装 : [siam_admin](https://github.com/xuanyanwow/siam_admin)
 - php扫描注释生成文档(基于es代码抽离) : [phpDocs](https://github.com/xuanyanwow/phpDocs)
