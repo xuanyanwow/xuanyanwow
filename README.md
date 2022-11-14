@@ -2,6 +2,10 @@
 
 ## 关于Siam 👋
 
+98年小伙籍贯潮汕，工作在 广州 && 深圳，热爱技术，热爱开源。
+
+
+
 ## 👯PHP
 
 - EasySwoole后台封装 : [easyswoole_panel](https://github.com/easyswoole-panel/easyswoole_panel)
