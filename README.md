@@ -4,6 +4,11 @@
 
 98年小伙籍贯潮汕，工作在 广州 && 深圳，热爱技术，热爱开源。
 
+`I ❤ Open Source.  ❤ Learn. ❤  Growth.`
+
+- 🌈 I'm currently working at Shenzhen. 😎
+- 🤔 I’m currently using `PHP` `GoLang` 😁
+- 📫 My Blog. [blog.simmm.cn](https://blog.simmm.cn)
 
 
 ## 👯PHP
