@@ -35,3 +35,4 @@
 ## 🔭Other
 
 - 谷歌扩展,划词翻译 : [chrome_siam_translation](https://github.com/xuanyanwow/chrome_siam_translation)
+- 彩云小译 : [xiaoyi](https://github.com/xuanyanwow/xiaoyi_crack)
